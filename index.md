@@ -1,3 +1,5 @@
-# Welcome to my blog
+# Bienvenido a mi blog
 
-I'm glad you are here. I plan to talk about ...
+Me alegra que estés aquí. 
+
+> Sin dudas github-pages tiene mucho potencial.
