@@ -1,11 +1,8 @@
-title: Code4kb Blog
-author: code4kb
-email: code4kb@gmail.com
+title: Developer Blog
+author: Developer
 description: Passionate programmer 🔥 Web Developer  🛠️
 
 
 # social links
-twitter_username: gamarod # DO NOT include the @ character, or else the build will fail!
-github_username:  code4kb # DO NOT include the @ character, or else the build will fail!
 theme: minima
 show_excerpts: false # set to false to remove excerpts on the homepage
