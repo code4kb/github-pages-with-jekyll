@@ -12,4 +12,3 @@ date: 2020-07-21
 * Development of API REST with Node.js, Express, MySql.
 * I'm interested in web optimization and scalability.
 
-greetings from Argentina
